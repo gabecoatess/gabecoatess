@@ -1,3 +1,4 @@
+![Gabriel Coates - Security Software Engineer](GabrielCoatesBanner2.png)
 # Hello, I'm Gabe 👋
 🌐 Welcome to my GitHub profile! I'm passionate about all things computers, problem solving, and programming. Currently, I'm studying Cybersecurity and software development, aiming to become a skilled security engineer.
 
