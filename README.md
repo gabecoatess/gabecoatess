@@ -14,7 +14,8 @@
 - Associate's in Cyber and Information Technology Security @ Pasco-Hernando State College (2023 - 2024)
 
 ## 👨‍💻 Current Projects:
-- MooMayhem (private) - A pixel art mobile game about raising unique cows!
+- MooMayhem (private) - A pixel art mobile game about raising unique cows
+- Nova: Password Manager (private) - Password manager built with Electron.js
 
 ## 📜 Certifications
 - [Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity) @ Google
