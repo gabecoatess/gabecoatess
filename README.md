@@ -16,6 +16,7 @@
 ## 👨‍💻 Current Projects:
 - MooMayhem (private) - A pixel art mobile game about raising unique cows
 - Nova: Password Manager (private) - Password manager built with Electron.js
+- Gravity Hopper (private) - 2D platformer where gravity switches at regular intervals.
 
 ## 📜 Certifications
 - [Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity) @ Google
