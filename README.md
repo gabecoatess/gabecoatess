@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about all things computers, problem
 ## Education
 - High School Diploma in Cyber Security @ Wendell Krinn Technical High School (2019 - 2023)
 - Associate's in Cyber and Information Technology Security @ Pasco-Hernando State College (2023 - 2024)
-- Bachelor's in Cybersecurity and Information Assurance @ Western Governors University (2024 - 202
+- Bachelor's in Cybersecurity and Information Assurance @ Western Governors University (2024 - 2025)
 
 ## Current Projects:
 - [RetroCode Explorer](https://www.gabecoatess.com/retrocode-explorer/) - A code summarization and documentation web application.
