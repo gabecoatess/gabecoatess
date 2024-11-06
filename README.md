@@ -1,24 +1,21 @@
-![Gabriel Coates - Security Software Engineer](GabrielCoatesBanner2.png)
+![Gabriel Coates](GabrielCoatesBanner2.png)
 # Hello, I'm Gabe 👋
-🌐 Welcome to my GitHub profile! I'm passionate about all things computers, problem solving, and programming. Currently, I'm studying Cybersecurity and software development, aiming to become a skilled security engineer.
+Welcome to my GitHub profile! I'm passionate about all things computers, problem solving, and programming.
 
-## 🎮 My Interests:
-- Cybersecurity 🔒
-- Game Development 🕹️
-- Software Development 💻
-- Quantum Physics 🌌
-- Theoretical Space Science 🚀
+## My Interests:
+- Software Development
+- Quantum and Nuclear Physics
+- Theoretical Astrophysics
 
-## 🎓 Education
+## Education
 - High School Diploma in Cyber Security @ Wendell Krinn Technical High School (2019 - 2023)
 - Associate's in Cyber and Information Technology Security @ Pasco-Hernando State College (2023 - 2024)
+- Bachelor's in Cybersecurity and Information Assurance @ Western Governors University (2024 - 202
 
-## 👨‍💻 Current Projects:
-- MooMayhem (private) - A pixel art mobile game about raising unique cows
-- Nova: Password Manager (private) - Password manager built with Electron.js
-- Gravity Hopper (private) - 2D platformer where gravity switches at regular intervals.
+## Current Projects:
+- [RetroCode Explorer](https://www.gabecoatess.com/retrocode-explorer/) - A code summarization and documentation web application.
 
-## 📜 Certifications
+## Certifications
 - [Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity) @ Google
 - [CompTIA Security+](https://www.comptia.org/certifications/security) @ CompTIA
 - [CompTIA IT Fundamentals+](https://www.comptia.org/certifications/it-fundamentals) @ CompTIA
@@ -32,8 +29,6 @@
 - [Site Development Associate](https://www.ciwcertified.com/ciw-certifications/web-foundations-series/site-development-associate/course-description) @ Certification Partners
 - [Web Foundations Associate](https://www.ciwcertified.com/ciw-certifications/web-foundations-series/web-foundations-associate/course-description) @ Certification Partners
 
-## 📫 Let's Connect:
+## Let's Connect:
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/gabecoates/). I'm open to discussions about anything!
-
-Keep coding and exploring the universe! 🚀
 
