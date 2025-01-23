@@ -4,13 +4,14 @@ Welcome to my GitHub profile! I'm passionate about all things computers, problem
 
 ## My Interests:
 - Software Development
-- Quantum and Nuclear Physics
-- Theoretical Astrophysics
+- Cybersecurity
+- Reverse Engineering
+- Electrical and Mechanical Design
 
 ## Education
 - High School Diploma in Cyber Security @ Wendell Krinn Technical High School (2019 - 2023)
 - Associate's in Cyber and Information Technology Security @ Pasco-Hernando State College (2023 - 2024)
-- Bachelor's in Cybersecurity and Information Assurance @ Western Governors University (2024 - 2025)
+- Bachelor's in Cybersecurity and Information Assurance @ Western Governors University (2024 - 2026)
 
 ## Current Projects:
 - [RetroCode Explorer](https://www.gabecoatess.com/retrocode-explorer/) - A code summarization and documentation web application.
